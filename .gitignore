@@ -9,5 +9,8 @@
 *.log.*
 *.sig
 
+/bin
+/include
+/lib
 pkg/
 src/
