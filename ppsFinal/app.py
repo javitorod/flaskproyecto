@@ -1,3 +1,5 @@
+from flask_login import UserMixin
+
 from flask import Response
 import json
 #importamos el jsoni
